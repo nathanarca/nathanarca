@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanarca
 - 👀 I’m interested in new tecnologies and keepinging learning.
-- 🌱 I’m currently learning englis .
+- 🌱 I’m currently learning english .
 - 📫 How to reach me nathanarrudacamara@gmail.com
 
 <!---
